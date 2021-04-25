@@ -29,7 +29,7 @@ namespace RentCWeb
         {
             services.AddControllersWithViews();
             services.AddRazorPages();
-            var connection = @"Server=DESKTOP-VDTQMNM;Database=RentCWeb;Trusted_Connection=True;ConnectRetryCount=0";
+            var connection = @"Server=DESKTOP-PNVFDPI\MSSQLSERVER02;Database=RentCWeb;Trusted_Connection=True;ConnectRetryCount=0";
             services.AddDbContext<Models.MyDbContext>
                 (options => options.UseSqlServer(connection));
             services.AddMvc();
