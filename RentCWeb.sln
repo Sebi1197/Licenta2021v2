@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30011.22
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RentCWeb", "RentCWeb\RentCWeb.csproj", "{2F78035C-7812-48FA-A39A-5C607CE7E500}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2F78035C-7812-48FA-A39A-5C607CE7E500}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2F78035C-7812-48FA-A39A-5C607CE7E500}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2F78035C-7812-48FA-A39A-5C607CE7E500}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2F78035C-7812-48FA-A39A-5C607CE7E500}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {414EAA8D-06F4-4ECC-8AA6-F8C4A305BC9C}
+	EndGlobalSection
+EndGlobal
